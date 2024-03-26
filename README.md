@@ -1,2 +1,2 @@
 # Website
-My simple web site 
+My simple web site using HTML,CSS and Java Script
